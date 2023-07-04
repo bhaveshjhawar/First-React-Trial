@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/First-React-Trial/home/static/js/main.b253d998.js",
-    "index.html": "/First-React-Trial/home/index.html",
-    "main.b253d998.js.map": "/First-React-Trial/home/static/js/main.b253d998.js.map"
+    "main.js": "/First-React-Trial/static/js/main.c0bbc197.js",
+    "index.html": "/First-React-Trial/index.html",
+    "main.c0bbc197.js.map": "/First-React-Trial/static/js/main.c0bbc197.js.map"
   },
   "entrypoints": [
-    "static/js/main.b253d998.js"
+    "static/js/main.c0bbc197.js"
   ]
 }
