@@ -20,4 +20,8 @@ code {
 .accordion-button{
   box-shadow: none;
 }
+ 
 
+.accordion-button::after{
+filter: invert();
+}
